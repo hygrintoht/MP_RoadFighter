@@ -1,0 +1,7 @@
+﻿  ProgressBar.cpp
+C:\Users\derick\source\repos\GDADPRG_MP_Santonia_Villegas\RoadFighterMP\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ProgressBarBG.cpp
+C:\Users\derick\source\repos\GDADPRG_MP_Santonia_Villegas\RoadFighterMP\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ProgressBarMovement.cpp
+  Generating Code...
+  RoadFighterMP.vcxproj -> C:\Users\derick\source\repos\GDADPRG_MP_Santonia_Villegas\x64\Debug\RoadFighterMP.exe
